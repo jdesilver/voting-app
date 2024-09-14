@@ -30,9 +30,11 @@ To get started with the Voting App locally, follow these steps:
 
 2. **Navigate to the Project Directory**
 
-  cd voting-app
+   ```bash
+   cd voting-app
+   
 
-3. **Install Dependencies**
+4. **Install Dependencies**
 
   For the backend:
 
