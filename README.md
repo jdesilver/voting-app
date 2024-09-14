@@ -32,7 +32,6 @@ To get started with the Voting App locally, follow these steps:
 
    ```bash
    cd voting-app
-   
 
 4. **Install Dependencies**
 
