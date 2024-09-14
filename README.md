@@ -37,32 +37,32 @@ To get started with the Voting App locally, follow these steps:
 
   For the backend:
 
-    cd server
-    npm install
+       cd server
+       npm install
 
   For the frontend:
 
-    cd ../client
-    npm install
+       cd ../client
+       npm install
 
 4. **Set Up Environment Variables**
 
   Create a .env file in the server directory and add the following variables:
 
-    MONGODB_URI=your_mongodb_uri
-    JWT_SECRET=your_jwt_secret
+       MONGODB_URI=your_mongodb_uri
+       JWT_SECRET=your_jwt_secret
 
 5. **Start the Application**
 
   To start the backend server:
 
-    cd server
-    npm start
+       cd server
+       npm start
 
   To start the frontend development server:
     
-    cd ../client
-    npm start
+       cd ../client
+       npm start
 
 6. **Usage**
 
@@ -75,8 +75,8 @@ To get started with the Voting App locally, follow these steps:
 
   Contributions are welcome! Please follow these guidelines:
 
-    Fork the repository.
-    Create a new branch for your feature or bug fix.
-    Commit your changes.
-    Push to the branch.
-    Open a pull request.
+       Fork the repository.
+       Create a new branch for your feature or bug fix.
+       Commit your changes.
+       Push to the branch.
+       Open a pull request.
